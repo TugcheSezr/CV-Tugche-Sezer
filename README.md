@@ -9,7 +9,7 @@
 
 👩🏻‍💻 Software Development Student  
 💻 Fullstack Developer  
-🌸 Moderne en schone webervaringen bouwen  
+🌸 Moderne & schone webervaringen bouwen  
 
 <br>
 
@@ -22,11 +22,19 @@
 ### 💭 Over Mij
 <i>
 Gepassioneerd over coderen, design en het bouwen van interactieve webapplicaties.  
-Ik vind het leuk om ideeën om te zetten in schone en functionele digitale producten.
+Ik vind het leuk om ideeën om te zetten in schone, functionele en mooie digitale producten ✨
 </i>
 
 ---
 
-🚀 Altijd lerend. Altijd bouwen.
+### ⚙️ Tech Stack
+💻 HTML • CSS • JavaScript • PHP • Java • Symfony • MySQL
+
+---
+
+### 🚀
+✨ Altijd leren  
+💻 Altijd bouwen  
+🌱 Altijd groeien  
 
 </div>
