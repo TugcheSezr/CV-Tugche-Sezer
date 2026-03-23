@@ -1,5 +1,15 @@
-# CV-Tugche Sezer
+<h2 align="center">👩🏻‍💻 CV – Tugche Sezer</h2>
 
-👩🏻‍💻 Software Development student (MBO4) – Fullstack Developer 
+<p align="center">
+  <b>Software Development student (MBO4) – Fullstack Developer</b>
+</p>
 
-🔗 Live CV: https://github.com/TugcheSezr/CV-Tugche-Sezer/blob/main/index.html
+<p align="center">
+  🔗 <a href="https://tugchesezr.github.io/CV-Tugche-Sezer/">Live CV</a>
+</p>
+
+---
+
+<p align="center">
+🚀 Building modern web apps with passion
+</p>
