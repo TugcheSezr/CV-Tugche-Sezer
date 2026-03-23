@@ -1,4 +1,4 @@
-# CV-Tugche-Sezer
+# CV-Tugche Sezer
 
 👩‍💻 Fullstack Developer (Student - MBO4)
 
