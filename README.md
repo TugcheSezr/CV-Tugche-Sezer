@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🌐 <a href="https://tugchesezr.github.io/CV-Tugche-Sezer">View Live CV</a>
+  🌐 <a href="https://github.com/TugcheSezr/CV-Tugche-Sezer/blob/main/index.html">View Live CV</a>
 </p>
 
 ---
