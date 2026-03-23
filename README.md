@@ -14,7 +14,7 @@
 
 <br>
 
-<a href="https://tugchesezr.github.io/CV-Tugche-Sezer">
+<a href="https://github.com/TugcheSezr/CV-Tugche-Sezer/blob/main/index.html">
   🌐 Bekijk mijn Live CV
 </a>
 
@@ -25,25 +25,6 @@
 ## 💭 Over mij
 Ik ben een software development student die graag werkt aan moderne en praktische webapplicaties.  
 Ik focus op duidelijke code, gebruiksvriendelijk design en constante verbetering van mijn skills.
-
----
-
-## ⚙️ Tech Stack
-HTML • CSS • JavaScript • PHP • Java • Symfony • MySQL • Bootstrap • Git
-
----
-
-## 🚀 Wat ik doe
-- Frontend & backend development  
-- Kleine tot middelgrote projecten bouwen  
-- Nieuwe technologieën leren en toepassen  
-
----
-
-## 🌱 Mindset
-💡 Leren elke dag iets nieuws  
-🧩 Problemen oplossen met logica  
-🚀 Blijven groeien als developer  
 
 ---
 
