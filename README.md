@@ -2,39 +2,39 @@
 
 # ✨ Tugche Sezer ✨
 
-<img src="https://img.shields.io/badge/Fullstack-Developer-pink?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Student-MBO4-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Fullstack-Developer-ff69b4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Software-Student-8a2be2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Actively%20Learning-00c896?style=for-the-badge"/>
 
 <br><br>
 
-👩🏻‍💻 Software Development Student  
+👩🏻‍💻 Software Development Student (MBO4)  
 💻 Fullstack Developer  
-🌸 Moderne & schone webervaringen bouwen  
+🌸 Webapps bouwen met focus op design & usability  
 
 <br>
 
-<a href="https://github.com/TugcheSezr/CV-Tugche-Sezer/blob/main/index.html">
-  🌐 Bekijk Live CV
+<a href="https://tugchesezr.github.io/CV-Tugche-Sezer">
+  🌐 <b>Bekijk mijn Live CV</b>
 </a>
 
 ---
 
-### 💭 Over Mij
-<i>
-Gepassioneerd over coderen, design en het bouwen van interactieve webapplicaties.  
-Ik vind het leuk om ideeën om te zetten in schone, functionele en mooie digitale producten ✨
-</i>
+### 💭 Over mij
+Gepassioneerd door software development en het bouwen van moderne webapplicaties.  
+Ik zet ideeën om in duidelijke, functionele en mooie digitale producten.  
+Altijd bezig met leren en mezelf verbeteren.
 
 ---
 
-### ⚙️ Tech Stack
-💻 HTML • CSS • JavaScript • PHP • Java • Symfony • MySQL
+### ⚙️ Tech Skills
+<img src="https://skillicons.dev/icons?i=html,css,js,php,java,symfony,mysql,bootstrap,git,github,vscode" />
 
 ---
 
-### 🚀
-✨ Altijd leren  
-💻 Altijd bouwen  
-🌱 Altijd groeien  
+### 🚀 Wat ik belangrijk vind
+✨ Netjes en gestructureerd werken  
+💻 Praktische oplossingen bouwen  
+🌱 Blijven groeien als developer  
 
 </div>
