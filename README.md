@@ -4,4 +4,4 @@
 
 CV van Tugche Sezer – Software Development student (MBO4)
 
-🔗 Live CV: https://tugchesezr.github.io/CV-Tugche-Sezer/
+🔗 Live CV: https://github.com/TugcheSezr/CV-Tugche-Sezer/blob/main/index.html
